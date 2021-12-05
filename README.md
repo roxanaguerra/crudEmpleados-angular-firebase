@@ -11,7 +11,7 @@ Esta aplicación es un CRUD de Empleados, realizado en el framework de Angular. 
 
 ## Desplegado
 
-![CRUD-EMPLEADOS-DEPLOY](https://pensive-kirch-0af032.netlify.app/list-empleados)
+**[CRUD-EMPLEADOS-DEPLOY](https://pensive-kirch-0af032.netlify.app/list-empleados)**
 
 
 
