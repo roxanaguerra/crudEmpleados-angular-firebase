@@ -16,3 +16,6 @@ Esta aplicación es un CRUD de Empleados, realizado en el framework de Angular. 
 ![Netlify Status](https://api.netlify.com/api/v1/badges/7183ac4a-7e7c-49b4-ae5f-62a72658dfd4/deploy-status)
 
 
+
+<!-- [![Netlify Status](https://api.netlify.com/api/v1/badges/7183ac4a-7e7c-49b4-ae5f-62a72658dfd4/deploy-status)](https://app.netlify.com/sites/crud-empleados-angular/deploys) -->
+
